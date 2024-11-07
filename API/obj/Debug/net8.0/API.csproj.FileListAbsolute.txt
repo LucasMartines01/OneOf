@@ -72,3 +72,4 @@ C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\API\obj\Debug
 C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\API\obj\Debug\net8.0\API.pdb
 C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\API\obj\Debug\net8.0\API.genruntimeconfig.cache
 C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\API\obj\Debug\net8.0\ref\API.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\API\obj\Debug\net8.0\API.sourcelink.json

@@ -31,3 +31,4 @@ C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Deb
 C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\refint\OneOf.dll
 C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.pdb
 C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\ref\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.sourcelink.json

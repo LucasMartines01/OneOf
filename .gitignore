@@ -1,19 +1,42 @@
-# Ignorar os arquivos de build do .NET
-bin/
-obj/
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+appsettings.Development.json
+appsettings.json
 
-# Ignorar arquivos de configuração do Rider
-.idea/
+# Visual Studio Code
+.vscode
 
-# Ignorar arquivos do Visual Studio
-.vs/
+# Rider
+.idea
+
+# User-specific files
+*.suo
 *.user
 *.userosscache
-*.suo
 *.sln.docstates
 
-# Ignorar arquivos de pacotes do NuGet
-.nuget/
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
+.dccache
 
-# Ignorar arquivos temporários
-*~
+# Visual Studio 2015
+.vs/
+.env
+appsettings.Development.json
