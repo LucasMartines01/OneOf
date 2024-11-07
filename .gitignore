@@ -1,0 +1,19 @@
+# Ignorar os arquivos de build do .NET
+bin/
+obj/
+
+# Ignorar arquivos de configuração do Rider
+.idea/
+
+# Ignorar arquivos do Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Ignorar arquivos de pacotes do NuGet
+.nuget/
+
+# Ignorar arquivos temporários
+*~
