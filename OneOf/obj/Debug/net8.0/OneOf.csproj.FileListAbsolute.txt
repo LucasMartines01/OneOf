@@ -1,0 +1,33 @@
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\bin\Debug\net8.0\OneOf.deps.json
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\bin\Debug\net8.0\OneOf.dll
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\bin\Debug\net8.0\OneOf.pdb
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.AssemblyInfoInputs.cache
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.AssemblyInfo.cs
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.dll
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\refint\OneOf.dll
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.pdb
+C:\Users\LucasSilvaMartines\RiderProjects\WebApplication1\OneOf\obj\Debug\net8.0\ref\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\bin\Debug\net8.0\OneOf.deps.json
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\bin\Debug\net8.0\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\bin\Debug\net8.0\OneOf.pdb
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.AssemblyInfoInputs.cache
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.AssemblyInfo.cs
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\refint\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\OneOf.pdb
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\WebApplication1\OneOf\obj\Debug\net8.0\ref\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\bin\Debug\net8.0\OneOf.deps.json
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\bin\Debug\net8.0\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\bin\Debug\net8.0\OneOf.pdb
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.AssemblyInfoInputs.cache
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.AssemblyInfo.cs
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.csproj.CoreCompileInputs.cache
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\refint\OneOf.dll
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\OneOf.pdb
+C:\Users\LucasSilvaMartines\Documents\Projetos Pessoais\.NET\OneOf\OneOf\obj\Debug\net8.0\ref\OneOf.dll

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApplication1</name>
+    </assembly>
+    <members>
+        <member name="T:WebApplication1.Controller.HelloController">
+            <summary>
+            Controller de Hello.
+            </summary>
+        </member>
+        <member name="M:WebApplication1.Controller.HelloController.AddEndpoints(Microsoft.AspNetCore.Builder.WebApplication)">
+            <summary>
+            Adiciona os endpoints de Hello ao WebApplication.
+            </summary>
+            <param name="webApplication"></param>
+        </member>
+        <member name="T:WebApplication1.HelloService">
+            <summary>
+            Serviço de Hello.
+            </summary>
+        </member>
+        <member name="M:WebApplication1.HelloService.HelloWorld(System.Int32)">
+            <summary>
+            Retorna uma saudação ao mundo.
+            </summary>
+            <param name="num"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
